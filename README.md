@@ -5,3 +5,4 @@ This repository contains my projects done during the Computational Intelligence 
 - Halloween challenge
 - Lab1: SetCovering problem
 - Lab2: Nim game
+- Lab9: Onemax
