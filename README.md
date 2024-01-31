@@ -6,3 +6,5 @@ This repository contains my projects done during the Computational Intelligence 
 - Lab1: SetCovering problem
 - Lab2: Nim game
 - Lab9: Onemax
+- Lab10: TicTacToe
+- Quixo
